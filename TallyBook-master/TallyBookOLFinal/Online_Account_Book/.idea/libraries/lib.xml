@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/catalina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/catalina-ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/websocket-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/jaspic-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-i18n-ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-i18n-ko.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-i18n-fr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-coyote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/jasper-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-i18n-es.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/catalina-ha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-i18n-pt-BR.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/jasper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/catalina-tribes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/ecj-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-i18n-cs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-i18n-de.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-i18n-zh-CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/tomcat-i18n-ru.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Online_Account_Book/lib/annotations-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
